@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/pyProjects/modelo/dataset/images/train
+val: /content/drive/MyDrive/pyProjects/modelo/dataset/images/val
+
+nc: 2  
+names: ['fruto', 'moeda']

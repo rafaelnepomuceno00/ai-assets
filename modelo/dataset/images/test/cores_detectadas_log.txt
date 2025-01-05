@@ -1,0 +1,21 @@
+Log de cores detectadas nos frutos:
+Fonte: /content/drive/MyDrive/pyProjects/modelo/dataset/images/test
+
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 1 - Cor (Hex): #93834d - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 2 - Cor (Hex): #a56029 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 3 - Cor (Hex): #9e5c22 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 4 - Cor (Hex): #854b18 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 5 - Cor (Hex): #a97440 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 6 - Cor (Hex): #855d2a - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 7 - Cor (Hex): #8c6530 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.48.59.jpeg - Fruto 8 - Cor (Hex): #a06034 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 1 - Cor (Hex): #ab7037 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 2 - Cor (Hex): #988d57 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 3 - Cor (Hex): #747541 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 4 - Cor (Hex): #ab8147 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 5 - Cor (Hex): #7b5013 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 6 - Cor (Hex): #9c7443 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 7 - Cor (Hex): #845318 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 8 - Cor (Hex): #947939 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 9 - Cor (Hex): #ab7a49 - Cor (Nome): Cor desconhecida
+WhatsApp Image 2024-10-25 at 10.49.19.jpeg - Fruto 10 - Cor (Hex): #97753e - Cor (Nome): Cor desconhecida
